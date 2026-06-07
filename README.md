@@ -56,8 +56,8 @@ An Online Quiz Application built using **ASP.NET Web Forms, C#, and SQL Server**
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/online-quiz-app.git
-git clone https://github.com/your-username/online-quiz-app.git
+git clone https://github.com/Sarun-shakya/online-quiz-app.git
+git clone https://github.com/Sarun-shakya/online-quiz-app.git
 
 2. Open the project in **Visual Studio**
 
