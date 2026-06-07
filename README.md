@@ -67,7 +67,7 @@ git clone https://github.com/Sarun-shakya/online-quiz-app.git
 
 5. Update connection string in `web.config`:
 <connectionStrings>
-  <add name="QuizDB"
+  <add name="DB_NAME"
        connectionString="Data Source=YOUR_DB_SOURCE;Initial Catalog=DB_NAME;Integrated Security=True"
        providerName="System.Data.SqlClient" />
 </connectionStrings>
