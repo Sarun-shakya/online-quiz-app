@@ -62,22 +62,18 @@ git clone https://github.com/Sarun-shakya/online-quiz-app.git
 2. Open the project in **Visual Studio**
 
 3. Open SQL Server and create database:
-```
-OnlineQuiz
-```
 
 4. Run the provided SQL script to create tables
 
 5. Update connection string in `web.config`:
-```xml
 <connectionStrings>
   <add name="QuizDB"
        connectionString="Data Source=YOUR_DB_SOURCE;Initial Catalog=DB_NAME;Integrated Security=True"
        providerName="System.Data.SqlClient" />
 </connectionStrings>
-```
 
 6. Build and run the project (Press `F5`)
+```
 
 ---
 
