@@ -2,6 +2,9 @@
 
 An Online Quiz Application built using **ASP.NET Web Forms, C#, and SQL Server** as part of the DotNet Technology subject. This system allows admins to create exams and questions, and users to take quizzes, view results, and track their performance.
 
+🔗 **Live Demo:** https://onlinequiz.somee.com/
+🔗 **GitHub Repository:** https://github.com/Sarun-shakya/online-quiz-app 
+
 ---
 
 ## 🚀 Features
